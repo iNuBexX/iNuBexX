@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iNuBexX
 - 👀 I’m interested in data science algorithms ai and games dev
-- 🌱 I’m currently learning computer vision
+- 🌱 I’m currently learning embedded systems
 - 💞️ I’m looking to collaborate on top secret stuff
 - 📫 How to reach me mahdi.benmansour@enicar.ucar.tn
 
